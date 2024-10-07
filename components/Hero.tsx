@@ -6,7 +6,7 @@ import { FaLocationArrow } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <div className="pb-20 pt-36">
+    <div className="pb-20">
       <div>
         <Spotlight
           className="-top-40 -left-10 md:-left-32 md:-top-20 h-screen"
@@ -24,6 +24,13 @@ const Hero = () => {
 
       <div className="flex justify-center my-20 z-10 relative">
         <div className="max-w-[89vw] md:mx-w-2xl lg:max-w-[60vw] flex flex-col items-center justify-center">
+          <div className="w-48 h-48 rounded-full overflow-hidden mb-10">
+            <img
+              src="/profile.png"
+              alt="Your Image"
+              className="w-full h-full object-cover"
+            />
+          </div>
           <h2 className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-80">
             Dynamic Web Magic With Next.js
           </h2>
