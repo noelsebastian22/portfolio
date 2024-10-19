@@ -73,35 +73,35 @@ export const gridItems = [
 export const projects = [
   {
     id: 1,
-    title: "3D Solar System Planets to Explore",
-    des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
+    title: "Snapgram",
+    des: "Discover a sleek image-sharing app with user authentication, image uploads, and a gallery to like and view photos, offering an experience inspired by Instagram.",
     img: "/snapgram.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/app.svg"],
-    link: "/ui.earth.com",
+    link: "https://github.com/noelsebastian22/snapgram",
   },
   {
     id: 2,
     title: "Upcoming Projects",
     des: "Stay tuned for exciting projects currently in development. This space will showcase future innovations in web development, including cutting-edge applications built with the latest technologies. More to come soon!",
-    img: "/upcoming.jpeg",
+    img: "/upcoming.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "#",
   },
   {
     id: 3,
     title: "Upcoming Projects",
     des: "Stay tuned for exciting projects currently in development. This space will showcase future innovations in web development, including cutting-edge applications built with the latest technologies. More to come soon!",
-    img: "/upcoming.jpeg",
+    img: "/upcoming.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "/ui.aiimg.com",
+    link: "#",
   },
   {
     id: 4,
     title: "Upcoming Projects",
     des: "Stay tuned for exciting projects currently in development. This space will showcase future innovations in web development, including cutting-edge applications built with the latest technologies. More to come soon!",
-    img: "/upcoming.jpeg",
+    img: "/upcoming.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "/ui.apple.com",
+    link: "#",
   },
 ];
 
@@ -174,29 +174,29 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
-    title: "Frontend Engineer Intern",
-    desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+    title: "Senior Engineer - DLG",
+    desc: "Assisted in managing multiple Angular repositories, integrating user requirements to ensure accessible solutions, and streamlining code deployments across environments.",
     className: "md:col-span-2",
     thumbnail: "/exp1.svg",
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Senior Developer - SRT",
+    desc: "Assisted in bug fixes and enhancements for Angular applications, improving functionality and user experience, while implementing user requirements and ensuring code quality with unit tests.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Senior Engineer - Qburst",
+    desc: "Gathered requirements, developed APIs with NestJS, built Angular UI, implemented various features, and created analytics dashboards with D3.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
   {
     id: 4,
-    title: "Lead Frontend Developer",
-    desc: "Developed and maintained user-facing features using modern frontend technologies.",
+    title: "Analyst - EY",
+    desc: "Assisted in translating UX designs to UI with Angular, improved performance through modularization, created data visualizations with Chart.js and D3.js, and developed a mobile app using Ionic.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
