@@ -87,22 +87,6 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     link: "#",
   },
-  {
-    id: 3,
-    title: "Upcoming Projects",
-    des: "Stay tuned for exciting projects currently in development. This space will showcase future innovations in web development, including cutting-edge applications built with the latest technologies. More to come soon!",
-    img: "/upcoming.jpg",
-    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-    link: "#",
-  },
-  {
-    id: 4,
-    title: "Upcoming Projects",
-    des: "Stay tuned for exciting projects currently in development. This space will showcase future innovations in web development, including cutting-edge applications built with the latest technologies. More to come soon!",
-    img: "/upcoming.jpg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "#",
-  },
 ];
 
 export const testimonials = [
